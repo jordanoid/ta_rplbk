@@ -1,0 +1,50 @@
+
+
+/* Container styles */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Heading styles */
+  h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  /* Image styles */
+  img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  /* Paragraph styles */
+  p {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  /* Button styles */
+  .btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  /* Loading message styles */
+  .loading {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  /* Error message styles */
+  .error {
+    font-size: 18px;
+    text-align: center;
+    color: red;
+    margin-top: 50px;
+  }
+  
